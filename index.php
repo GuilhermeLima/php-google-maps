@@ -4,7 +4,7 @@
 	
         <title>PHP - google map</title>
 		<link rel="stylesheet" type="text/css" href="css/estilo.css" />
-		
+		<link rel="icon" type="image/png" href="img/menu.png" />
     </head>
     <body>
 	
@@ -104,7 +104,7 @@
 						foreach($lendo->rows as $campo){
 							foreach($campo->elements as $dist){
 								echo "<br>Distancia: ".$dist->distance->text."<br>";
-								echo "Duração(carro): ".$dist->duration->text;
+								echo "Duraï¿½ï¿½o(carro): ".$dist->duration->text;
 							}
 						}
 					}
