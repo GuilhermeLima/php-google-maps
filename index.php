@@ -2,7 +2,7 @@
 <html>
     <head>
 	
-        <title>PHP - google map</title>
+        <title>PHP - google maps</title>
 		<link rel="stylesheet" type="text/css" href="css/estilo.css" />
 		<link rel="icon" type="image/png" href="img/menu.png" />
     </head>
